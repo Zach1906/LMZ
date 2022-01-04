@@ -1,6 +1,6 @@
 # Expliquer la volatilité des sondages des élections présidentielles de 2007, 2017 et 2012 en France
 
-Bienvenue sur le Github de notre projet Python.
+Bienvenue sur le Github du projet Python de Zachary Bouaziz, Marvin Ivard et Louise Sirven.
 
 Vous y trouverez :
 - **Rapport projet Python** : le notebook final présentant notre travail.
