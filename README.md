@@ -4,5 +4,5 @@ Bienvenue sur le Github du projet Python de Zachary Bouaziz, Marvin Ivard et Lou
 
 Vous y trouverez :
 - **Rapport projet Python** : le notebook final présentant notre travail.
-- **Les fichiers pdf** contenant les résultats des sondages que nous avons utilisés (7 fichiers : 1 sondage Ifop et 6 sondages Elabe). les fichiers doivent être enregistrés au même endroit que le notebook.
+- **Les fichiers pdf** contenant les résultats des sondages que nous avons utilisés (7 fichiers : 1 sondage Ifop et 6 sondages Elabe). Les fichiers doivent être enregistrés au même endroit que le notebook.
  
